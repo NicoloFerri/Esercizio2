@@ -2,6 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+src/co/develhope/introduction/_1/**
 
 ### Eclipse ###
 .apt_generated
